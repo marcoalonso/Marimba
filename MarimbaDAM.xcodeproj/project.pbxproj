@@ -13,6 +13,14 @@
 		60BC4F4527FE632000C37A52 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F4327FE632000C37A52 /* Main.storyboard */; };
 		60BC4F4727FE632300C37A52 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F4627FE632300C37A52 /* Assets.xcassets */; };
 		60BC4F4A27FE632300C37A52 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F4827FE632300C37A52 /* LaunchScreen.storyboard */; };
+		60BC4F5927FE6B3400C37A52 /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5127FE6B3400C37A52 /* 2.mp3 */; };
+		60BC4F5A27FE6B3400C37A52 /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5227FE6B3400C37A52 /* 4.mp3 */; };
+		60BC4F5B27FE6B3400C37A52 /* 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5327FE6B3400C37A52 /* 5.mp3 */; };
+		60BC4F5C27FE6B3400C37A52 /* 6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5427FE6B3400C37A52 /* 6.mp3 */; };
+		60BC4F5D27FE6B3400C37A52 /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5527FE6B3400C37A52 /* 3.mp3 */; };
+		60BC4F5E27FE6B3400C37A52 /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5627FE6B3400C37A52 /* 4.mp3 */; };
+		60BC4F5F27FE6B3400C37A52 /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5727FE6B3400C37A52 /* 4.mp3 */; };
+		60BC4F6027FE6B3400C37A52 /* 1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 60BC4F5827FE6B3400C37A52 /* 1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		60BC4F4627FE632300C37A52 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60BC4F4927FE632300C37A52 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		60BC4F4B27FE632300C37A52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		60BC4F5127FE6B3400C37A52 /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
+		60BC4F5227FE6B3400C37A52 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = "<group>"; };
+		60BC4F5327FE6B3400C37A52 /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5.mp3; sourceTree = "<group>"; };
+		60BC4F5427FE6B3400C37A52 /* 6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 6.mp3; sourceTree = "<group>"; };
+		60BC4F5527FE6B3400C37A52 /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
+		60BC4F5627FE6B3400C37A52 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 4.mp3; path = ../../../../Downloads/4.mp3; sourceTree = "<group>"; };
+		60BC4F5727FE6B3400C37A52 /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = 4.mp3; path = "../../../ITM/Programacion Móvil II/Apps/InstrumentoMusical/InstrumentoMusical/4.mp3"; sourceTree = "<group>"; };
+		60BC4F5827FE6B3400C37A52 /* 1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +79,14 @@
 				60BC4F4627FE632300C37A52 /* Assets.xcassets */,
 				60BC4F4827FE632300C37A52 /* LaunchScreen.storyboard */,
 				60BC4F4B27FE632300C37A52 /* Info.plist */,
+				60BC4F5827FE6B3400C37A52 /* 1.mp3 */,
+				60BC4F5127FE6B3400C37A52 /* 2.mp3 */,
+				60BC4F5527FE6B3400C37A52 /* 3.mp3 */,
+				60BC4F5727FE6B3400C37A52 /* 4.mp3 */,
+				60BC4F5627FE6B3400C37A52 /* 4.mp3 */,
+				60BC4F5227FE6B3400C37A52 /* 4.mp3 */,
+				60BC4F5327FE6B3400C37A52 /* 5.mp3 */,
+				60BC4F5427FE6B3400C37A52 /* 6.mp3 */,
 			);
 			path = MarimbaDAM;
 			sourceTree = "<group>";
@@ -125,8 +149,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60BC4F6027FE6B3400C37A52 /* 1.mp3 in Resources */,
+				60BC4F5E27FE6B3400C37A52 /* 4.mp3 in Resources */,
+				60BC4F5B27FE6B3400C37A52 /* 5.mp3 in Resources */,
 				60BC4F4A27FE632300C37A52 /* LaunchScreen.storyboard in Resources */,
+				60BC4F5F27FE6B3400C37A52 /* 4.mp3 in Resources */,
+				60BC4F5927FE6B3400C37A52 /* 2.mp3 in Resources */,
+				60BC4F5C27FE6B3400C37A52 /* 6.mp3 in Resources */,
 				60BC4F4727FE632300C37A52 /* Assets.xcassets in Resources */,
+				60BC4F5A27FE6B3400C37A52 /* 4.mp3 in Resources */,
+				60BC4F5D27FE6B3400C37A52 /* 3.mp3 in Resources */,
 				60BC4F4527FE632000C37A52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,6 +325,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,6 +354,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
